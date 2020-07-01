@@ -11,3 +11,5 @@ You can define the
 - whitelist 
 
 at the beginning of the script and then run it to clean up your nexus repository.
+
+For more details on how to run the groovy scripts on Nexus 3 follow this link: https://support.sonatype.com/hc/en-us/articles/115015812727-Nexus-3-Groovy-Script-development-environment-setup
